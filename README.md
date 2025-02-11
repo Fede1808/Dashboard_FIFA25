@@ -4,10 +4,8 @@
 Dashboard interactivo que compara estadísticas clave de jugadores entre La Liga y la Premier League (2024).
 
 <p align="center">
-  <img src="Ejercicio Billetera 2024.jpg">
+  <img src="Dashboard FIFA 25-imágenes-0.jpg">
 </p>
-
----
 
 ## 🛠️ Proceso Técnico
 1. **Limpieza de datos**:
